@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Python Development Projects**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1H6q9RZVazz3dBDWnF3p8qZ0imsCHNdkn/view?usp=drive_link](https://drive.google.com/file/d/1H6q9RZVazz3dBDWnF3p8qZ0imsCHNdkn/view?usp=drive_link)
+- 📄 Know about my experiences (https://www.overleaf.com/read/kszsbxtsqbvp)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
