@@ -5,7 +5,7 @@
 
 - 🌍 I’m based in **Chennai,India**
 
-- 🌱 I’m currently learning **Django, REST API**
+- 🌱 I’m currently learning **LLM and Langchain**
 
 - 👯 I’m looking to collaborate on **Python Development Projects**
 
